@@ -2,10 +2,16 @@
   <v-app>
     <v-app-bar
       app
-      color="primary"
+      color="black"
       dark
     >
-    Mercedes Benz Music Experience
+    MUSAE - Mercedes Benz Music Experience
+    <v-spacer></v-spacer>
+        <v-avatar color="grey darken-3">
+      <v-icon dark>
+        mdi-account-circle
+      </v-icon>
+    </v-avatar>
     </v-app-bar>
 
     <v-main>

@@ -1,4 +1,6 @@
 # store-frontend
+This small app lets Mercedes Benz agents easily adjust the music playlist for the customer experience.
+This was created as part of the Start Hack hackathon 2021.
 
 ## Project setup
 ```
