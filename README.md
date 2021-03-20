@@ -1,26 +1,30 @@
-# store-frontend
-This small app lets Mercedes Benz agents easily adjust the music playlist for the customer experience.
-This was created as part of the Start Hack hackathon 2021.
+# Start Hack 2021 Mercedes Benz Challenge
+Aiming for an individualized customer experience with music/sound, this prototype of a small app should help the shop agents to finetune the music experience based on the desired emotions.
 
-## Project setup
+## Technology
+- VueJS 2
+- Vuetify
+- Draggable
+
+## Project Setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compile and Hotreload for Development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compile and Minifie for Production
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Linting
 ```
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+___
+:computer: :car: :heart:
